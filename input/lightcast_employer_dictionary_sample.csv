@@ -1,0 +1,5 @@
+company,company_name,percentage_relevant_jobs,count_of_relevant_jobs,total_count_of_jobs
+R001,The Goldman Sachs Group Inc,0.85,850,1000
+R002,JPMorgan Chase & Co,0.80,800,1000
+R003,Morgan Stanley,0.75,750,1000
+R004,Wells Fargo & Company,0.60,600,1000

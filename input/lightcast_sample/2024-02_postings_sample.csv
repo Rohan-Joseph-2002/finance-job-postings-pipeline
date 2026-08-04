@@ -1,0 +1,3 @@
+id,company,company_name,posted,expired,cip6_name,naics2_name,soc_2_name,lot_career_area_name,onet_name,lot_occupation_group_name,lot_specialized_occupation_name,title_clean,skills_name
+1008,F_GS,Goldman Sachs Group Inc,2024-02-05,2024-03-05,Applied Mathematics,Finance and Insurance,Business and Financial Operations Occupations,Finance,Financial and Investment Analysts,Financial Specialists,Quantitative Analyst,Quantitative Analyst,python statistics modeling
+1009,F_MS,Morgan Stanley,2024-02-06,2024-03-06,,Finance and Insurance,Business and Financial Operations Occupations,Finance,Financial and Investment Analysts,Financial Specialists,Derivatives Trader,Derivatives Trader,derivatives swaps hedging
