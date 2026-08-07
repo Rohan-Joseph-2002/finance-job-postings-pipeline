@@ -3,7 +3,7 @@
 Standalone pipeline that builds a finance-focused job-postings sample from raw Lightcast-style
 monthly exports, links postings to a reference employer list, and summarizes the result.
 
-## Why this matters
+## Overview
 
 Raw job-posting exports are huge and noisy: most postings are not finance, employer names are
 written inconsistently, and the useful signal is spread across several taxonomy fields. This
